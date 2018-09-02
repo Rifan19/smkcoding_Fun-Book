@@ -2,5 +2,5 @@
 
 desc : sebuah aplikasi yang di buat agar mempermudah user mencari buku
 
-![Logo] (home.png)
-![Logo] (menu.png)
+![Logo] (ss/home.png)
+![Logo] (ss/menu.png)
